@@ -38,7 +38,8 @@ const Parts = () => {
   return (
     <div className="mt-28">
       <div className="text-center">
-        <h3 className="font-bold text-2xl text-[#0068B5]">OUR PRODUCTS</h3>
+        <h3 className="font-bold text-4xl text-center text-[#0068B5]">OUR PRODUCTS</h3>
+        <p className="text-center mt-4">It also offers processors, chipsets, motherboards, solid state drives, server products, wireless connectivity products and software and applications. </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 w-10/12 mx-auto mt-12">
         {
