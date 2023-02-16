@@ -92,7 +92,7 @@ const Navbar = () => {
             </ul>
           </div>
           <div class="navbar-end">
-            <a class="btn bg-[#0068B5] border-0">Get started</a>
+            <a class="btn bg-[#0068B5] border-0 font-semibold">Get started</a>
           </div>
         </div>
       </div>

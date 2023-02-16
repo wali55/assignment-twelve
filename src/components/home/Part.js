@@ -15,6 +15,7 @@ const Part = ({ part }) => {
         <p><span className="font-semibold">Minimum Order:</span> {minOrderQuantity}</p>
         <p><span className="font-semibold">Available Quantity:</span> {availableQuantity}</p>
         <p><span className="font-semibold">Price:</span> {price}</p>
+        <button class="btn bg-[#0068B5] border-0 font-semibold">BUY NOW</button>
       </div>
     </div>
   );
