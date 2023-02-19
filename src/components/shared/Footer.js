@@ -27,7 +27,7 @@ const Footer = () => {
       </footer>
       <footer class="footer px-10 py-4 border-t bg-base-200 text-base-content border-base-300">
         <div class="items-center grid-flow-col">
-          <a class="btn btn-ghost normal-case text-2xl text-[#0068B5]">intel</a>
+          <a class="btn btn-ghost normal-case text-2xl text-[#0068B5]">intel wali</a>
           <p>
             © Intel Corporation <br />
             Intel technologies may require enabled hardware, software or service

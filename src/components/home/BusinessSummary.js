@@ -5,32 +5,6 @@ import { UserGroupIcon } from "@heroicons/react/24/outline";
 import { CheckCircleIcon } from "@heroicons/react/24/outline";
 
 const BusinessSummary = () => {
-  const achievements = [
-    {
-      _id: 1,
-      name: "Market Capital",
-      number: "$118.5B+",
-      img: PresentationChartLineIcon,
-    },
-    {
-      _id: 2,
-      name: "Revenue",
-      number: "$63.1B+",
-      img: CurrencyDollarIcon,
-    },
-    {
-      _id: 3,
-      name: "Employees",
-      number: "121,100+",
-      img: UserGroupIcon,
-    },
-    {
-      _id: 4,
-      name: "Patents",
-      number: "3,947+",
-      img: CheckCircleIcon,
-    },
-  ];
 
   return (
     <div className="mt-[200px]">

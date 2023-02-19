@@ -11,6 +11,7 @@ const Clients = () => {
       <h2 className="font-bold text-4xl text-center text-[#0068B5]">
         Our Clients Around The World
       </h2>
+      <p className="text-center mt-4">Dell accounted for about 17% of Intel's total revenues, Lenovo accounted for 12% of total revenues, and HP Inc. accounted for 10% of total revenues.</p>
       <div className="flex flex-wrap w-10/12 mx-auto gap-32 mt-12 justify-center items-center">
         <img style={{ width: "50px", height: "50px" }} src={hp} alt="hp" />
         <img style={{ width: "50px", height: "50px" }} src={dell} alt="dell" />
